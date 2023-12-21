@@ -1,4 +1,4 @@
 # MyDemo
 My first Git Repository
 <br>
-Author: Aradhya Bhat
+Author: Aradhya Bhat(Apna college)
